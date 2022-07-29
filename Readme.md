@@ -18,4 +18,4 @@ It took me 5 to 6 hours to complete this project.
 [![Project ScreenShot](./completed_project_01.png)](https://street-style-landing-page-project-01.netlify.app/ "Project link")
 
 
-![Badge](https://img.shields.io/badge/Project__01-Street__Style__Landing__Page-yellow)
+[![Badge](https://img.shields.io/badge/Project__01-Street__Style__Landing__Page-yellow)](https://street-style-landing-page-project-01.netlify.app/ "Project link")
