@@ -13,6 +13,8 @@ In this, I have learned about **CSS positioning property** and **z-index propert
 
 It took me 5 to 6 hours to complete this project.
 
+**Note :** This project is not optimized for mobile yet.
+
 **[Live Project's netlify link](https://street-style-landing-page-project-01.netlify.app/ "Project link")**
 
 [![Project ScreenShot](./completed_project_01.png)](https://street-style-landing-page-project-01.netlify.app/ "Project link")
